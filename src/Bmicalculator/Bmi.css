@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.form{
+    display: block;
+
+}
+label{
+    font-weight: 500;
+}
+.text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
